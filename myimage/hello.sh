@@ -1,4 +1,4 @@
 #!/bin/bash
 set -eu
-echo "Hello, World!"
+echo "こんにちは"
 exec sleep infinity
